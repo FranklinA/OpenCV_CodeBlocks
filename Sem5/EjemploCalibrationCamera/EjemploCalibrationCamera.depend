@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1511821351 source:c:\users\franklin angulo\documents\github\opencv_codeblocks\sem5\ejemplocalibrationcamera\main.cpp
+	"opencv2/core/core.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/calib3d/calib3d.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<cctype>
+	<stdio.h>
+	<string.h>
+	<time.h>
+

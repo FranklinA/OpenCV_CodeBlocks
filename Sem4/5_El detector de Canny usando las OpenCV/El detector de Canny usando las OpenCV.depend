@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1511872182 source:c:\users\franklin angulo\documents\github\opencv_codeblocks\sem4\5_el detector de canny usando las opencv\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/imgproc/imgproc.hpp"
+	<iostream>
+

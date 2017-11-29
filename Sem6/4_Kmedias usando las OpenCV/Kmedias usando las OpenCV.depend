@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1511875505 source:c:\users\franklin angulo\documents\github\opencv_codeblocks\sem6\3_kmedias usando las opencv\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/imgproc/imgproc.hpp"
+	<opencv2/ml/ml.hpp>
+	<iostream>
+	<vector>
+
+1511875505 source:c:\users\franklin angulo\documents\github\opencv_codeblocks\sem6\4_kmedias usando las opencv\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/imgproc/imgproc.hpp"
+	<opencv2/ml/ml.hpp>
+	<iostream>
+	<vector>
+
